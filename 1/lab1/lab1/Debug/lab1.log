@@ -1,0 +1,6 @@
+﻿  H.cpp
+C:\Users\Mi\Desktop\Лаба Алго\1\lab1\lab1\H.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Mi\Desktop\Лаба Алго\1\lab1\lab1\H.cpp(109,9): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Mi\Desktop\Лаба Алго\1\lab1\lab1\H.cpp(109,15): warning C4101: v: неиспользованная локальная переменная
+C:\Users\Mi\Desktop\Лаба Алго\1\lab1\lab1\H.cpp(109,12): warning C4101: u: неиспользованная локальная переменная
+  lab1.vcxproj -> C:\Users\Mi\Desktop\Лаба Алго\1\lab1\Debug\lab1.exe

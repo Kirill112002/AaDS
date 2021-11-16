@@ -1,0 +1,7 @@
+﻿  F.cpp
+C:\Users\Mi\Desktop\Лаба Алго\2\lab2\lab2\F.cpp(48,13): warning C4244: =: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=ll
+          ]
+  lab2.vcxproj -> C:\Users\Mi\Desktop\Лаба Алго\2\lab2\Debug\lab2.exe

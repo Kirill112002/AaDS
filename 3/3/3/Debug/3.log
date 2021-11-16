@@ -1,0 +1,11 @@
+﻿  E.cpp
+C:\Users\Mi\Desktop\Лаба Алго\3\3\3\E.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Mi\Desktop\Лаба Алго\3\3\3\E.cpp(33,27): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\Mi\Desktop\Лаба Алго\3\3\3\E.cpp(34,24): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\Mi\Desktop\Лаба Алго\3\3\3\E.cpp(36,23): warning C4244: аргумент: преобразование "ll" в "const unsigned int", возможна потеря данных
+C:\Users\Mi\Desktop\Лаба Алго\3\3\3\E.cpp(42,34): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=ll
+          ]
+  3.vcxproj -> C:\Users\Mi\Desktop\Лаба Алго\3\3\Debug\3.exe
